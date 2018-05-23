@@ -1,0 +1,62 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "taylorsavage"
+  #subtitle    = "Port of Casper 2.x for Hugo"
+  copyright   = "© 2018"
+
+  #cover       = ""
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "taylorthesavage"
+  #fbName = ""
+  #githubName = "tjsavage"
+  #linkedinName = "taylorsavage"
+  #mediumName = ""
+
+  #logo = "hugo-logo.png"
+  #orgName = "EM"
+  #orgWebsite = "https://www.telematika.org"
+  #orgDescription = "Here is a description placeholder for your org"
+
+  #showSupport = true
+
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Your description here"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Writing"
+  url = "/writing/"
+  weight = 100
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 99
+
