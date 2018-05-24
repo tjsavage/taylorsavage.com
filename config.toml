@@ -1,7 +1,7 @@
 baseurl         = "https://taylorsavage.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
-publishDir      = "docs"
+publishDir      = "public"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
