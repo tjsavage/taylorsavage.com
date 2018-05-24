@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://taylorsavage.com/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://taylorsavage.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Third Meal</title>
-      <link>https://taylorsavage.com/writing/paris/03/</link>
+      <link>/writing/paris/03/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/writing/paris/03/</guid>
+      <guid>/writing/paris/03/</guid>
       <description>Adipisicing turkey non, cow excepteur ut id leberkas. Chicken pig id meatloaf short loin reprehenderit jowl nisi duis pork. Kielbasa excepteur ham, frankfurter meatloaf beef ribs consectetur flank chicken filet mignon. Bresaola tail culpa cillum, ut beef ribs strip steak kielbasa drumstick proident rump dolore.
 Sausage ut short ribs dolore, minim brisket nisi beef ribs bacon capicola spare ribs. Chicken ham hock culpa, ut tongue commodo flank jerky. Pastrami fatback voluptate pancetta.</description>
     </item>
     
     <item>
       <title>A First Meal</title>
-      <link>https://taylorsavage.com/writing/paris/01/</link>
+      <link>/writing/paris/01/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/writing/paris/01/</guid>
+      <guid>/writing/paris/01/</guid>
       <description>Bacon ipsum dolor amet salami boudin jerky kielbasa leberkas venison burgdoggen swine ground round pork belly turkey meatloaf. Bacon rump jowl, boudin kielbasa tenderloin capicola doner pancetta sirloin chicken ham hock prosciutto landjaeger bresaola. Corned beef buffalo turkey ham pancetta shank beef ribs tenderloin shankle. Tongue strip steak shankle leberkas porchetta. Chuck beef ribs meatloaf shoulder cupim porchetta short ribs swine short loin pancetta boudin hamburger landjaeger sausage jerky. Meatball jerky brisket, spare ribs cow flank pig salami short ribs.</description>
     </item>
     
     <item>
       <title>A Second Meal</title>
-      <link>https://taylorsavage.com/writing/paris/02/</link>
+      <link>/writing/paris/02/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/writing/paris/02/</guid>
+      <guid>/writing/paris/02/</guid>
       <description>Frankfurter shankle turducken landjaeger andouille, swine jowl shank cow shoulder pancetta short ribs pork chop. Sausage cow andouille meatball. Tongue turducken tri-tip short ribs, cupim frankfurter swine. Prosciutto filet mignon ground round corned beef, capicola bacon tenderloin shoulder. Rump pastrami buffalo, fatback meatloaf burgdoggen sausage beef ribs porchetta pancetta flank. Swine pastrami kielbasa, short loin shankle corned beef leberkas beef ribs. Corned beef chuck ground round meatloaf biltong, short loin short ribs ham pork belly prosciutto ham hock sirloin capicola beef ribs strip steak.</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://taylorsavage.com/post/creating-a-new-theme/</link>
+      <link>/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/post/creating-a-new-theme/</guid>
+      <guid>/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Awesomeness</title>
-      <link>https://taylorsavage.com/post/awesomeness/</link>
+      <link>/post/awesomeness/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/post/awesomeness/</guid>
+      <guid>/post/awesomeness/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Wonderful</title>
-      <link>https://taylorsavage.com/post/wonderful/</link>
+      <link>/post/wonderful/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/post/wonderful/</guid>
+      <guid>/post/wonderful/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://taylorsavage.com/post/migrate-to-hugo-from-jekyll/</link>
+      <link>/post/migrate-to-hugo-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/post/migrate-to-hugo-from-jekyll/</guid>
+      <guid>/post/migrate-to-hugo-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -82,10 +82,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>Colenak</title>
-      <link>https://taylorsavage.com/post/colenak/</link>
+      <link>/post/colenak/</link>
       <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/post/colenak/</guid>
+      <guid>/post/colenak/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>

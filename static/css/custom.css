@@ -23,3 +23,8 @@ body {
 .section-collection-list > h2 {
     text-align: center;
 }
+
+/* Posts */
+.post-full-content.no-img:before, .post-full-content.no-img:after {
+    background: #fff;
+}

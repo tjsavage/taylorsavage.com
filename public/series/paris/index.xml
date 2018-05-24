@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paris on </title>
-    <link>https://taylorsavage.com/series/paris/</link>
+    <link>/series/paris/</link>
     <description>Recent content in Paris on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://taylorsavage.com/series/paris/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/series/paris/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Third Meal</title>
-      <link>https://taylorsavage.com/writing/paris/03/</link>
+      <link>/writing/paris/03/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/writing/paris/03/</guid>
+      <guid>/writing/paris/03/</guid>
       <description>Adipisicing turkey non, cow excepteur ut id leberkas. Chicken pig id meatloaf short loin reprehenderit jowl nisi duis pork. Kielbasa excepteur ham, frankfurter meatloaf beef ribs consectetur flank chicken filet mignon. Bresaola tail culpa cillum, ut beef ribs strip steak kielbasa drumstick proident rump dolore.
 Sausage ut short ribs dolore, minim brisket nisi beef ribs bacon capicola spare ribs. Chicken ham hock culpa, ut tongue commodo flank jerky. Pastrami fatback voluptate pancetta.</description>
     </item>
     
     <item>
       <title>A First Meal</title>
-      <link>https://taylorsavage.com/writing/paris/01/</link>
+      <link>/writing/paris/01/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/writing/paris/01/</guid>
+      <guid>/writing/paris/01/</guid>
       <description>Bacon ipsum dolor amet salami boudin jerky kielbasa leberkas venison burgdoggen swine ground round pork belly turkey meatloaf. Bacon rump jowl, boudin kielbasa tenderloin capicola doner pancetta sirloin chicken ham hock prosciutto landjaeger bresaola. Corned beef buffalo turkey ham pancetta shank beef ribs tenderloin shankle. Tongue strip steak shankle leberkas porchetta. Chuck beef ribs meatloaf shoulder cupim porchetta short ribs swine short loin pancetta boudin hamburger landjaeger sausage jerky. Meatball jerky brisket, spare ribs cow flank pig salami short ribs.</description>
     </item>
     
     <item>
       <title>A Second Meal</title>
-      <link>https://taylorsavage.com/writing/paris/02/</link>
+      <link>/writing/paris/02/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://taylorsavage.com/writing/paris/02/</guid>
+      <guid>/writing/paris/02/</guid>
       <description>Frankfurter shankle turducken landjaeger andouille, swine jowl shank cow shoulder pancetta short ribs pork chop. Sausage cow andouille meatball. Tongue turducken tri-tip short ribs, cupim frankfurter swine. Prosciutto filet mignon ground round corned beef, capicola bacon tenderloin shoulder. Rump pastrami buffalo, fatback meatloaf burgdoggen sausage beef ribs porchetta pancetta flank. Swine pastrami kielbasa, short loin shankle corned beef leberkas beef ribs. Corned beef chuck ground round meatloaf biltong, short loin short ribs ham pork belly prosciutto ham hock sirloin capicola beef ribs strip steak.</description>
     </item>
     

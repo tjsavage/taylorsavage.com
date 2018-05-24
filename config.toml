@@ -26,17 +26,17 @@ canonifyurls    = true
   #mediumName = ""
 
   #logo = "hugo-logo.png"
-  #orgName = "EM"
+  #orgName = "Taylor Savage"
   #orgWebsite = "https://www.telematika.org"
   #orgDescription = "Here is a description placeholder for your org"
 
   #showSupport = true
 
-  author = "EM"
+  author = "Taylor Savage"
   authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  authorLocation = "San Francisco, CA"
+  authorWebsite = "https://taylorsavage.com"
+  #authorDescription = "Your description here"
 
   pageNotFoundTitle = "404 - Page not found"
 
