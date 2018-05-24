@@ -6,10 +6,38 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Third Meal</title>
+      <link>/writing/paris/03/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/paris/03/</guid>
+      <description>Adipisicing turkey non, cow excepteur ut id leberkas. Chicken pig id meatloaf short loin reprehenderit jowl nisi duis pork. Kielbasa excepteur ham, frankfurter meatloaf beef ribs consectetur flank chicken filet mignon. Bresaola tail culpa cillum, ut beef ribs strip steak kielbasa drumstick proident rump dolore.
+Sausage ut short ribs dolore, minim brisket nisi beef ribs bacon capicola spare ribs. Chicken ham hock culpa, ut tongue commodo flank jerky. Pastrami fatback voluptate pancetta.</description>
+    </item>
+    
+    <item>
+      <title>A First Meal</title>
+      <link>/writing/paris/01/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/paris/01/</guid>
+      <description>Bacon ipsum dolor amet salami boudin jerky kielbasa leberkas venison burgdoggen swine ground round pork belly turkey meatloaf. Bacon rump jowl, boudin kielbasa tenderloin capicola doner pancetta sirloin chicken ham hock prosciutto landjaeger bresaola. Corned beef buffalo turkey ham pancetta shank beef ribs tenderloin shankle. Tongue strip steak shankle leberkas porchetta. Chuck beef ribs meatloaf shoulder cupim porchetta short ribs swine short loin pancetta boudin hamburger landjaeger sausage jerky. Meatball jerky brisket, spare ribs cow flank pig salami short ribs.</description>
+    </item>
+    
+    <item>
+      <title>A Second Meal</title>
+      <link>/writing/paris/02/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/paris/02/</guid>
+      <description>Frankfurter shankle turducken landjaeger andouille, swine jowl shank cow shoulder pancetta short ribs pork chop. Sausage cow andouille meatball. Tongue turducken tri-tip short ribs, cupim frankfurter swine. Prosciutto filet mignon ground round corned beef, capicola bacon tenderloin shoulder. Rump pastrami buffalo, fatback meatloaf burgdoggen sausage beef ribs porchetta pancetta flank. Swine pastrami kielbasa, short loin shankle corned beef leberkas beef ribs. Corned beef chuck ground round meatloaf biltong, short loin short ribs ham pork belly prosciutto ham hock sirloin capicola beef ribs strip steak.</description>
+    </item>
     
     <item>
       <title>Creating a New Theme</title>
@@ -39,30 +67,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <guid>/post/wonderful/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/post/getting-started-with-hugo/</link>
-      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/post/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
     </item>
     
     <item>

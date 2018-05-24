@@ -1,0 +1,32 @@
+{{ partial "head" . }}
+
+<body class="section-template"><div class="site-wrapper">
+
+{{ partial "header-sori-section" . }}
+
+<main id="site-main" class="site-main outer" role="main">
+  <div class="inner">
+
+    {{ .Content }}
+
+    {{ if .Sections }}
+      <div class="section-collection-list">
+        <h2>Collections</h2>
+        {{ range sort .Sections "Params.order_index" }}
+          {{ partial "post-card" . }}
+        {{ end }}
+      </div>
+    {{ end }}
+    
+    <div class="post-feed">        
+        {{ range sort (where .Data.Pages "Type" "post") "Params.order_index" }}
+
+          {{ partial "post-card" . }}
+        
+        {{ end }}
+    </div>
+  </div>
+</main>
+
+{{ partial "footer" . }}
+</div>{{ partial "js" . }}</body></html>
