@@ -1,0 +1,12 @@
+install:
+  - rm -rf docs || exit 0
+
+script:
+  - binaries/hugo
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: docs
+  on:
+    branch: master
