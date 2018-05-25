@@ -20,6 +20,27 @@ body {
     min-height: 0;
 }
 
-.section-collection-list > h2 {
+.section-collection-list {
+    margin-top: -70px;
+    padding-top: 0;
+}
+
+.section-collection-list > h2, .section-post-list > h2 {
     text-align: center;
+}
+
+.social-link svg {
+    fill: #000;
+}
+
+/* Collections */
+
+.inner.collection {
+    margin-top: -70px;
+    padding-top: 0;
+}
+
+/* Posts */
+.post-full-content.no-img:before, .post-full-content.no-img:after {
+    background: #fff;
 }

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Test A B C on </title>
-    <link>https://taylorsavage.com/writing/paris/</link>
-    <description>Recent content in A Test A B C on </description>
+    <title>Paris on </title>
+    <link>https://taylorsavage.com/categories/paris/</link>
+    <description>Recent content in Paris on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://taylorsavage.com/writing/paris/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://taylorsavage.com/categories/paris/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,16 +30,6 @@
     </item>
     
     <item>
-      <title>A Third Meal</title>
-      <link>https://taylorsavage.com/writing/paris/03/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://taylorsavage.com/writing/paris/03/</guid>
-      <description>Adipisicing turkey non, cow excepteur ut id leberkas. Chicken pig id meatloaf short loin reprehenderit jowl nisi duis pork. Kielbasa excepteur ham, frankfurter meatloaf beef ribs consectetur flank chicken filet mignon. Bresaola tail culpa cillum, ut beef ribs strip steak kielbasa drumstick proident rump dolore.
-Sausage ut short ribs dolore, minim brisket nisi beef ribs bacon capicola spare ribs. Chicken ham hock culpa, ut tongue commodo flank jerky. Pastrami fatback voluptate pancetta.</description>
-    </item>
-    
-    <item>
       <title>A Fourth Meal</title>
       <link>https://taylorsavage.com/writing/paris/04/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
@@ -47,6 +37,16 @@ Sausage ut short ribs dolore, minim brisket nisi beef ribs bacon capicola spare 
       <guid>https://taylorsavage.com/writing/paris/04/</guid>
       <description>Ipsum enim turkey, irure shank excepteur duis porchetta. Cillum in in sirloin, bresaola culpa ipsum dolor chuck adipisicing fugiat quis shankle. Shank in ribeye ball tip. Sed bresaola ribeye tri-tip, excepteur meatball quis pork chop fatback spare ribs corned beef pastrami turducken. Sirloin do ham, chicken nulla irure velit biltong kevin ut buffalo voluptate leberkas sed pork chop.
 Alcatra sed tenderloin minim aliqua pork loin non velit aute elit. Mollit esse t-bone in rump ad non cupim ut ham proident incididunt.</description>
+    </item>
+    
+    <item>
+      <title>A Third Meal</title>
+      <link>https://taylorsavage.com/writing/paris/03/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylorsavage.com/writing/paris/03/</guid>
+      <description>Adipisicing turkey non, cow excepteur ut id leberkas. Chicken pig id meatloaf short loin reprehenderit jowl nisi duis pork. Kielbasa excepteur ham, frankfurter meatloaf beef ribs consectetur flank chicken filet mignon. Bresaola tail culpa cillum, ut beef ribs strip steak kielbasa drumstick proident rump dolore.
+Sausage ut short ribs dolore, minim brisket nisi beef ribs bacon capicola spare ribs. Chicken ham hock culpa, ut tongue commodo flank jerky. Pastrami fatback voluptate pancetta.</description>
     </item>
     
   </channel>

@@ -3,98 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/writing/paris/03/</loc>
+    <loc>https://taylorsavage.com/writing/paris/01/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taylorsavage.com/writing/paris/02/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taylorsavage.com/writing/paris/03/</loc>
     <lastmod>2018-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/writing/paris/01/</loc>
-    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <loc>https://taylorsavage.com/writing/paris/04/</loc>
+    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/writing/paris/02/</loc>
-    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/creating-a-new-theme/</loc>
+    <loc>https://taylorsavage.com/writing/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/awesomeness/</loc>
+    <loc>https://taylorsavage.com/writing/01/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/wonderful/</loc>
+    <loc>https://taylorsavage.com/writing/02/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/migrate-to-hugo-from-jekyll/</loc>
+    <loc>https://taylorsavage.com/writing/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/colenak/</loc>
+    <loc>https://taylorsavage.com/writing/03/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+    <loc>https://taylorsavage.com/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/writing/paris/</loc>
-    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+    <loc>https://taylorsavage.com/writing/paris/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://taylorsavage.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/food/</loc>
+    <loc>https://taylorsavage.com/categories/food/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/series/paris/</loc>
-    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+    <loc>https://taylorsavage.com/categories/paris/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://taylorsavage.com/series/paris/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taylorsavage.com/series/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taylorsavage.com/categories/sports/</loc>
+    <lastmod>2014-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taylorsavage.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taylorsavage.com/writing/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/series/</loc>
-    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/writing/</loc>
-    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/writing/</loc>
   </url>
   
 </urlset>
