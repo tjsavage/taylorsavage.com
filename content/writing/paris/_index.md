@@ -2,6 +2,7 @@
 #next: /tutorials/github-pages-blog
 #prev: /tutorials/automated-deployments
 title: A Test A B C
+layout: collection
 #authorAvatar: hugo-logo.png
 ---
 

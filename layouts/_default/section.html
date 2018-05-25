@@ -11,20 +11,25 @@
 
     {{ if .Sections }}
       <div class="section-collection-list">
-        <h2>Collections</h2>
+          <h2>Collections</h2>
         {{ range sort .Sections "Params.order_index" }}
           {{ partial "post-card" . }}
         {{ end }}
       </div>
     {{ end }}
     
-    <div class="post-feed">        
-        {{ range sort (where .Data.Pages "Type" "post") "Params.order_index" }}
+    {{ if .Data.Pages }}
+      <div class="section-post-list">
+        <h2>Posts</h2>
+        <div class="post-feed">        
+            {{ range sort (where .Data.Pages "Type" "post") "Params.order_index" }}
 
-          {{ partial "post-card" . }}
-        
-        {{ end }}
-    </div>
+              {{ partial "post-card" . }}
+            
+            {{ end }}
+        </div>
+      </div>
+    {{ end }}
   </div>
 </main>
 
