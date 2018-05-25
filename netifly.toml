@@ -1,1 +1,8 @@
-[context.deploy-preview.environment]
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.40.3"
+  HUGO_ENV = "production"
+  HUGO_BASEURL = "https://www.taylorsavage.com"
