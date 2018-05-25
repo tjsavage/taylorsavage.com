@@ -27,21 +27,6 @@
     {{else}}
       {{ partial "post-single-sori" . }}
 
-      {{ $currPage := . }}
-      {{ $sortedSectionPages := (sort (.Parent.Pages) "Params.order_index")}}
-
-      {{ range $index, $sectionPage := $sortedSectionPages }}
-        {{ if eq $sectionPage $currPage }}
-          {{ .Scratch.Set "currPageIndex" $index }}
-        {{ end }}
-      {{ end }}
-
-      {{ $nextPostInSection := index $sortedSectionPages (add (.Scratch.Get "currPageIndex") 1) }}
-      {{ $prevPostInSection := index $sortedSectionPages (sub (.Scratch.Get "currPageIndex") 1) }}
-
-      {{ .Scratch.Set "nextPostInSection" $nextPostInSection }}
-      {{ .Scratch.Set "prevPostInSection" $prevPostInSection }}
-
     {{end}}
     
     {{ partial "disqus" . }}
@@ -49,15 +34,36 @@
 </main>
 
 {{if eq .Site.Params.singleViewStyle "casper"}}
+
+  {{ if .Params.collection }}
+    {{ $currPage := . }}
+    {{ $sortedSectionPages := (sort (.Parent.Pages) "Params.order_index")}}
+
+    {{ range $index, $sectionPage := $sortedSectionPages }}
+      {{ if eq $sectionPage $currPage }}
+        {{ .Scratch.Set "currPageIndex" $index }}
+      {{ end }}
+    {{ end }}
+
+    {{ $nextPostInSection := index $sortedSectionPages (add (.Scratch.Get "currPageIndex") 1) }}
+    {{ $prevPostInSection := index $sortedSectionPages (sub (.Scratch.Get "currPageIndex") 1) }}
+
+    {{ .Scratch.Set "nextPost" $nextPostInSection }}
+    {{ .Scratch.Set "prevPost" $prevPostInSection }}
+  {{ else }}
+    {{ .Scratch.Set "nextPost" .NextInSection }}
+    {{ .Scratch.Set "prevPost" .PrevInSection }}
+  {{ end }}
+
 <aside class="read-next outer">
   <div class="inner">
     <div class="read-next-feed">    
       {{ partial "readnext-random-sori" . }}
       
-      {{with (.Scratch.Get "nextPostInSection") }}
+      {{with (.Scratch.Get "nextPost") }}
         {{ partial "readnext-article-sori" . }}
       {{end}}
-      {{with (.Scratch.Get "prevPostInSection") }}
+      {{with (.Scratch.Get "prevPost") }}
        {{ partial "readnext-article-sori" . }}
       {{end}}
     </div>
