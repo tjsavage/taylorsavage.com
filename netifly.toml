@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo --baseURL=https://www.taylorsavage.com/"
 
 [context.production.environment]
   HUGO_VERSION = "0.40.3"
