@@ -7,7 +7,9 @@ export type Post = {
     title: string,
     slug: string,
     date: string,
-    content: string
+    content: string,
+    subheading: string,
+    contentPreview: string
 }
 
 export default function getPost(slug: string): Post {
@@ -16,6 +18,7 @@ export default function getPost(slug: string): Post {
 
     const fileContents = fs.readFileSync(postFilename, 'utf8')
     const {data, content} = matter(fileContents)
+    const contentPreview = content.substring(0,300);
 
     console.log('getPost data.date', data.date);
 
@@ -23,7 +26,9 @@ export default function getPost(slug: string): Post {
         title: data.title,
         slug: slug,
         date: data.date.toString(),
-        content: content
+        content: content,
+        subheading: data.subheading,
+        contentPreview: contentPreview
     }
 
 }

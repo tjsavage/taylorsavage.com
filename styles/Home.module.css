@@ -12,8 +12,10 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
+  max-width: 835px;
+  width: 90%;
 }
 
 .footer {
@@ -49,7 +51,9 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
+  margin-bottom: 40px;
+  font-style: 'Roboto', 'sans-serif';
 }
 
 .title,

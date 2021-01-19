@@ -6,20 +6,29 @@ import html from 'remark-html'
 import { useRouter } from 'next/router'
 
 import markdownToHtml from '../../lib/markdownToHtml'
+import styles from '../../styles/Post.module.css'
 
 import getPost from '../../lib/getPost'
 import PostBody from '../../components/post-body'
 import { GetStaticProps, InferGetStaticPropsType } from 'next'
 import getAllPosts from '../../lib/getAllPosts'
+import Navbar from '../../components/Navbar'
+import getDate from '../../lib/getDate'
 
 
 
 export default function Post({ post, renderedContent }: InferGetStaticPropsType<typeof getStaticProps>) {
     return (
         <div>
-            <h1>{post.title}</h1>
-            <PostBody content={renderedContent} />
+            <Navbar />
+            <div className={styles.postWrap}>
+                <h1 className={styles.postTitle}>{post.title}</h1>
+                <h2>{post.subheading}</h2>
+                <p className={styles.date}>{getDate(post.date)}</p>
+                <PostBody content={renderedContent} />
+            </div> 
         </div>
+
     )
 }
 

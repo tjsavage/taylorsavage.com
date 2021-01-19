@@ -3,15 +3,20 @@ import Head from 'next/head'
 import getAllPosts from '../lib/getAllPosts'
 import styles from '../styles/Home.module.css'
 
+import Navbar from '../components/Navbar'
+import PostPreview from '../components/PostPreview'
+
 export default function Home({ posts }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <div className={styles.container}>
+      <Navbar />
       <main className={styles.main}>
         <h1 className={styles.title}>
           Taylor's blog
         </h1>
+        
         {posts.map((post) => {
-          return (<h3>{post.title}</h3>)
+          return (<PostPreview post={post} />)
         })}
       </main>
 

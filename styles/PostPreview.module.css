@@ -1,0 +1,49 @@
+.postPreview {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Source Sans Pro', 'sans-serif';
+}
+
+.postPreview h3 {
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 24px;
+    margin: 0px;
+}
+
+.postPreview p {
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+.postPreview .readMoreBtn {
+    color: #0260B8;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    width: auto;
+}
+
+.postPreview .readMoreBtn:hover {
+    color: #76A2D7;
+}
+
+.postSubheading {
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Roboto', 'sans-serif';
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.postDate {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.postContentPreview {
+    font-size: 14px;
+}
